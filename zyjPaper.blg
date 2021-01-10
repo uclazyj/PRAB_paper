@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: zyjPaper.aux
+The style file: apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: zyjPaperNotes.bib
+Database file #2: reference.bib
+control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev42Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{0}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing publisher in Griffiths
+Warning--empty year in Griffiths
+You've used 14 entries,
+            6079 wiz_defined-function locations,
+            1743 strings with 19303 characters,
+and the built_in function-call counts, 21045 in all, are:
+= -- 1032
+> -- 857
+< -- 169
++ -- 256
+- -- 242
+* -- 3696
+:= -- 1744
+add.period$ -- 12
+call.type$ -- 14
+change.case$ -- 60
+chr.to.int$ -- 24
+cite$ -- 16
+duplicate$ -- 1911
+empty$ -- 1408
+format.name$ -- 476
+if$ -- 4261
+int.to.chr$ -- 1
+int.to.str$ -- 21
+missing$ -- 282
+newline$ -- 88
+num.names$ -- 36
+pop$ -- 685
+preamble$ -- 1
+purify$ -- 59
+quote$ -- 0
+skip$ -- 744
+stack$ -- 0
+substring$ -- 336
+swap$ -- 2032
+text.length$ -- 112
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 254
+warning$ -- 3
+while$ -- 46
+width$ -- 0
+write$ -- 157
+(There were 3 warnings)

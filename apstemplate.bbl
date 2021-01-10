@@ -1,0 +1,87 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[An et~al.(2013)An, Decyk, Mori, and Antonsen]{QuickPIC2013}
+Weiming An, Viktor~K. Decyk, Warren~B. Mori, and Thomas~M. Antonsen.
+\newblock An improved iteration loop for the three dimensional quasi-static
+  particle-in-cell algorithm: Quickpic.
+\newblock \emph{Journal of Computational Physics}, 250:\penalty0 165 -- 177,
+  2013.
+\newblock ISSN 0021-9991.
+\newblock \doi{https://doi.org/10.1016/j.jcp.2013.05.020}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0021999113003525}.
+
+\bibitem[Aschikhin et~al.(2018)Aschikhin, Mehrling, de~la Ossa, and
+  Osterhoff]{German2018}
+Alexander Aschikhin, Timon~Johannes Mehrling, Alberto~Martinez de~la Ossa, and
+  Jens Osterhoff.
+\newblock Analytical model for the uncorrelated emittance evolution of
+  externally injected beams in plasma-based accelerators.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  909:\penalty0 414 -- 418, 2018.
+\newblock ISSN 0168-9002.
+\newblock \doi{https://doi.org/10.1016/j.nima.2018.02.065}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900218302195}.
+\newblock 3rd European Advanced Accelerator Concepts workshop (EAAC2017).
+
+\bibitem[Blumenfeld et~al.(2007)Blumenfeld, Clayton, Decker, Hogan, Huang,
+  Ischebeck, Iverson, Joshi, Katsouleas, Kirby, Lu, Marsh, Mori, Muggli, Oz,
+  Siemann, Walz, and Zhou]{PWFA2007}
+Ian Blumenfeld, Christopher~E. Clayton, Franz-Josef Decker, Mark~J. Hogan,
+  Chengkun Huang, Rasmus Ischebeck, Richard Iverson, Chandrashekhar Joshi,
+  Thomas Katsouleas, Neil Kirby, Wei Lu, Kenneth~A. Marsh, Warren~B. Mori,
+  Patric Muggli, Erdem Oz, Robert~H. Siemann, Dieter Walz, and Miaomiao Zhou.
+\newblock Energy doubling of 42 gev electrons in a metre-scale plasma wakefield
+  accelerator.
+\newblock \emph{Nature}, 445:\penalty0 741 EP --, 02 2007.
+\newblock URL \url{http://dx.doi.org/10.1038/nature05538}.
+
+\bibitem[Huang et~al.(2006)Huang, Decyk, Ren, Zhou, Lu, Mori, Cooley, Antonsen,
+  and Katsouleas]{QuickPIC2006}
+Chengkun Huang, Viktor~K. Decyk, Chuang Ren, M.~Zhou, Wei Lu, Warren~B. Mori,
+  James~H. Cooley, Thomas~M. Antonsen, and Thomas~C. Katsouleas.
+\newblock Quickpic: A highly efficient particle-in-cell code for modeling
+  wakefield acceleration in plasmas.
+\newblock \emph{J. Comput. Physics}, 217:\penalty0 658--679, 2006.
+
+\bibitem[Joshi et~al.(2018)Joshi, Adli, An, Clayton, Corde, Gessner, Hogan,
+  Litos, Lu, Marsh, Mori, Vafaei-Najafabadi, O'shea, Xu, White, and
+  Yakimenko]{PWFA_FACETII}
+C~Joshi, E~Adli, W~An, C~E Clayton, S~Corde, S~Gessner, M~J Hogan, M~Litos,
+  W~Lu, K~A Marsh, W~B Mori, N~Vafaei-Najafabadi, B~O'shea, Xinlu Xu, G~White,
+  and V~Yakimenko.
+\newblock Plasma wakefield acceleration experiments at facet ii.
+\newblock \emph{Plasma Physics and Controlled Fusion}, 60\penalty0
+  (3):\penalty0 034001, 2018.
+\newblock URL \url{http://stacks.iop.org/0741-3335/60/i=3/a=034001}.
+
+\bibitem[Litos et~al.(2014)Litos, Adli, An, Clarke, Clayton, Corde, Delahaye,
+  England, Fisher, Frederico, Gessner, Green, Hogan, Joshi, Lu, Marsh, Mori,
+  Muggli, Vafaei-Najafabadi, Walz, White, Wu, Yakimenko, and Yocky]{PWFA2014}
+M.~Litos, E.~Adli, W.~An, C.~I. Clarke, C.~E. Clayton, S.~Corde, J.~P.
+  Delahaye, R.~J. England, A.~S. Fisher, J.~Frederico, S.~Gessner, S.~Z. Green,
+  M.~J. Hogan, C.~Joshi, W.~Lu, K.~A. Marsh, W.~B. Mori, P.~Muggli,
+  N.~Vafaei-Najafabadi, D.~Walz, G.~White, Z.~Wu, V.~Yakimenko, and G.~Yocky.
+\newblock High-efficiency acceleration of an electron beam in a plasma
+  wakefield accelerator.
+\newblock \emph{Nature}, 515:\penalty0 92 EP --, 11 2014.
+\newblock URL \url{http://dx.doi.org/10.1038/nature13882}.
+
+\bibitem[Xu et~al.(2016)Xu, Hua, Wu, Zhang, Li, Wan, Pai, Lu, An, Yu, Hogan,
+  Joshi, and Mori]{Xinlu2016}
+X.~L. Xu, J.~F. Hua, Y.~P. Wu, C.~J. Zhang, F.~Li, Y.~Wan, C.-H. Pai, W.~Lu,
+  W.~An, P.~Yu, M.~J. Hogan, C.~Joshi, and W.~B. Mori.
+\newblock Physics of phase space matching for staging plasma and traditional
+  accelerator components using longitudinally tailored plasma profiles.
+\newblock \emph{Phys. Rev. Lett.}, 116:\penalty0 124801, Mar 2016.
+\newblock \doi{10.1103/PhysRevLett.116.124801}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevLett.116.124801}.
+
+\end{thebibliography}

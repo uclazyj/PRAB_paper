@@ -1,0 +1,813 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 MAY 2020 16:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**zyjPaper_submitted.tex
+(./zyjPaper_submitted.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./revtex4-2.cls
+Document Class: revtex4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/re
+vtex/ for documentation)
+ Copyright (c) 2019 American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>Version (4.2c)
+: Modified by Mark Doyle
+ .
+ltxutil[2019/01/18/14:29:48 4.2c utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 315.
+Class revtex4-2 Info: Repairing broken LaTeX eqnarray on input line 365.
+\eqncolsep=\skip41
+Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 440.
+Class revtex4-2 Info: Repairing broken LateX \@sect on input line 762.
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
+\@arstrutbox@hline=\box26
+Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1793.
+Class revtex4-2 Info: Making \typeout \long on input line 2053.
+ltxfront[2019/01/18/14:29:48 4.2c frontmatter package (AO,DPC,MD)]
+\c@affil=\count82
+\c@collab=\count83
+\absbox=\box27
+ltxgrid[2019/01/18/14:29:48 4.2c page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count84
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count85
+Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5585.
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count92
+\fbox@1=\box36
+\c@table=\count93
+\fbox@2=\box37
+\c@video=\count94
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-2 Info: Selecting society aps on input line 7581.
+(./aps4-2.rtx
+File: aps4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for doc
+umentation)
+Class revtex4-2 Info: RevTeX society APS selected on input line 37.
+)
+
+Class revtex4-2 Warning: No journal specified, using default pra.
+
+Class revtex4-2 Info: APS journal PRA selected on input line 7584.
+(./aps10pt4-2.rtx
+File: aps10pt4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ for
+ documentation)
+Class revtex4-2 Info: RevTeX pointsize 10pt selected on input line 36.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen102
+)
+LaTeX Info: Redefining \text on input line 28.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen103
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen104
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks18
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks19
+\eqnshift@=\dimen105
+\alignsep@=\dimen106
+\tagshift@=\dimen107
+\tagwidth@=\dimen108
+\totwidth@=\dimen109
+\lineht@=\dimen110
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count107
+)
+Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7588.
+
+(./revsymb4-2.sty
+Package: revsymb4-2 2019/01/18/14:29:48 4.2c (https://journals.aps.org/revtex/ 
+for documentation)
+LaTeX Info: Redefining \frak on input line 101.
+LaTeX Info: Redefining \Bbb on input line 117.
+LaTeX Info: Redefining \REV@mathfrak on input line 125.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks23
+\float@box=\box43
+\@float@everytoks=\toks24
+\@floatcapt=\box44
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count109
+\sf@farskip=\skip49
+\sf@captopadj=\dimen120
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen121
+\WF@size=\dimen122
+\c@WF@wrappedlines=\count116
+\WF@box=\box45
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count117
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count118
+\calc@Bcount=\count119
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count120
+\calc@Cskip=\skip56
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count121
+\l_MT_multwidth_dim=\dimen125
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen126
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen127
+\l_MT_above_intertext_sep=\dimen128
+\l_MT_below_intertext_sep=\dimen129
+\l_MT_above_shortintertext_sep=\dimen130
+\l_MT_below_shortintertext_sep=\dimen131
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen132
+\enit@toks=\toks26
+\enit@inbox=\box46
+\enitdp@description=\count122
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+Class revtex4-2 Info: Patching LaTeX tabular. on input line 55.
+
+
+Class revtex4-2 Warning: Repair the float package.
+
+Class revtex4-2 Info: Robustifying \LaTeX's \boldmath command on input line 55.
+
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 55.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 55.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 55.
+
+LaTeX Warning: Unused global option(s):
+    [prstab].
+
+(./zyjPaper_submitted.aux)
+\openout1 = `zyjPaper_submitted.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen133
+\scratchbox=\box47
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen134
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks30
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout3 = `zyjPaper_submittedNotes.bib'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 148.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 148.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 148.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+<TwoBunches2.png, id=1, 1710.39pt x 1045.9075pt>
+File: TwoBunches2.png Graphic file (type png)
+<use TwoBunches2.png>
+Package pdftex.def Info: TwoBunches2.png  used on input line 174.
+(pdftex.def)             Requested size: 221.3985pt x 135.38225pt.
+ [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Tw
+oBunches2.png>] [2] [3]
+Package epstopdf Info: Source file: <emittance_in_ramp_match.eps>
+(epstopdf)                    date: 2019-06-18 16:45:14
+(epstopdf)                    size: 98984 bytes
+(epstopdf)             Output file: <emittance_in_ramp_match-eps-converted-to.p
+df>
+(epstopdf)                    date: 2019-06-18 16:47:35
+(epstopdf)                    size: 9540 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_in_ramp_match-ep
+s-converted-to.pdf emittance_in_ramp_match.eps>
+(epstopdf)             \includegraphics on input line 418.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_in_ramp_match-eps-converted-to.pdf, id=34, 397.485pt x 299.1175pt>
+File: emittance_in_ramp_match-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_in_ramp_match-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_in_ramp_match-eps-converted-to.pdf  used on 
+input line 418.
+(pdftex.def)             Requested size: 117.29782pt x 88.27084pt.
+Package epstopdf Info: Source file: <emittance_scan_energySpread.eps>
+(epstopdf)                    date: 2019-11-02 22:04:17
+(epstopdf)                    size: 107312 bytes
+(epstopdf)             Output file: <emittance_scan_energySpread-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2019-11-02 22:06:51
+(epstopdf)                    size: 12019 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_scan_energySprea
+d-eps-converted-to.pdf emittance_scan_energySpread.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_scan_energySpread-eps-converted-to.pdf, id=35, 382.42876pt x 299.117
+5pt>
+File: emittance_scan_energySpread-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_scan_energySpread-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_scan_energySpread-eps-converted-to.pdf  used
+ on input line 419.
+(pdftex.def)             Requested size: 117.29782pt x 91.74416pt.
+Package epstopdf Info: Source file: <emittance_scan_alpha.eps>
+(epstopdf)                    date: 2019-11-23 00:28:06
+(epstopdf)                    size: 252918 bytes
+(epstopdf)             Output file: <emittance_scan_alpha-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2019-11-23 00:30:25
+(epstopdf)                    size: 14387 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_scan_alpha-eps-c
+onverted-to.pdf emittance_scan_alpha.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_scan_alpha-eps-converted-to.pdf, id=36, 382.42876pt x 299.1175pt>
+File: emittance_scan_alpha-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_scan_alpha-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_scan_alpha-eps-converted-to.pdf  used on inp
+ut line 420.
+(pdftex.def)             Requested size: 117.29782pt x 91.74416pt.
+Package epstopdf Info: Source file: <emittance_scan_beta.eps>
+(epstopdf)                    date: 2019-11-02 22:04:17
+(epstopdf)                    size: 189198 bytes
+(epstopdf)             Output file: <emittance_scan_beta-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-02 22:06:52
+(epstopdf)                    size: 13433 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_scan_beta-eps-co
+nverted-to.pdf emittance_scan_beta.eps>
+(epstopdf)             \includegraphics on input line 421.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_scan_beta-eps-converted-to.pdf, id=37, 382.42876pt x 299.1175pt>
+File: emittance_scan_beta-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_scan_beta-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_scan_beta-eps-converted-to.pdf  used on inpu
+t line 421.
+(pdftex.def)             Requested size: 117.29782pt x 91.74416pt.
+ [4 <./emittance_in_ramp_match-eps-converted-to.pdf> <./emittance_scan_energySp
+read-eps-converted-to.pdf> <./emittance_scan_alpha-eps-converted-to.pdf> <./emi
+ttance_scan_beta-eps-converted-to.pdf>] [5]
+Package epstopdf Info: Source file: <plasma_density_profile.eps>
+(epstopdf)                    date: 2019-07-15 22:46:39
+(epstopdf)                    size: 251265 bytes
+(epstopdf)             Output file: <plasma_density_profile-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2019-07-15 22:48:47
+(epstopdf)                    size: 12524 bytes
+(epstopdf)             Command: <repstopdf --outfile=plasma_density_profile-eps
+-converted-to.pdf plasma_density_profile.eps>
+(epstopdf)             \includegraphics on input line 619.
+Package epstopdf Info: Output file is already uptodate.
+<plasma_density_profile-eps-converted-to.pdf, id=112, 539.01375pt x 430.60875pt
+>
+File: plasma_density_profile-eps-converted-to.pdf Graphic file (type pdf)
+<use plasma_density_profile-eps-converted-to.pdf>
+Package pdftex.def Info: plasma_density_profile-eps-converted-to.pdf  used on i
+nput line 619.
+(pdftex.def)             Requested size: 122.4028pt x 97.78294pt.
+Package epstopdf Info: Source file: <adiabatic_plasma_density_profile.eps>
+(epstopdf)                    date: 2019-07-15 22:46:42
+(epstopdf)                    size: 250032 bytes
+(epstopdf)             Output file: <adiabatic_plasma_density_profile-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-07-15 22:48:48
+(epstopdf)                    size: 12014 bytes
+(epstopdf)             Command: <repstopdf --outfile=adiabatic_plasma_density_p
+rofile-eps-converted-to.pdf adiabatic_plasma_density_profile.eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+<adiabatic_plasma_density_profile-eps-converted-to.pdf, id=113, 539.01375pt x 4
+30.60875pt>
+File: adiabatic_plasma_density_profile-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use adiabatic_plasma_density_profile-eps-converted-to.pdf>
+Package pdftex.def Info: adiabatic_plasma_density_profile-eps-converted-to.pdf 
+ used on input line 622.
+(pdftex.def)             Requested size: 122.4028pt x 97.78294pt.
+
+Overfull \hbox (11.13885pt too wide) in paragraph at lines 619--623
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <scanS.eps>
+(epstopdf)                    date: 2019-06-21 12:44:19
+(epstopdf)                    size: 250015 bytes
+(epstopdf)             Output file: <scanS-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-21 12:48:28
+(epstopdf)                    size: 15416 bytes
+(epstopdf)             Command: <repstopdf --outfile=scanS-eps-converted-to.pdf
+ scanS.eps>
+(epstopdf)             \includegraphics on input line 634.
+Package epstopdf Info: Output file is already uptodate.
+<scanS-eps-converted-to.pdf, id=114, 384.43625pt x 293.095pt>
+File: scanS-eps-converted-to.pdf Graphic file (type pdf)
+<use scanS-eps-converted-to.pdf>
+Package pdftex.def Info: scanS-eps-converted-to.pdf  used on input line 634.
+(pdftex.def)             Requested size: 203.99689pt x 155.5319pt.
+Package epstopdf Info: Source file: <emittance_growth_diff_s.eps>
+(epstopdf)                    date: 2019-06-22 18:38:01
+(epstopdf)                    size: 327727 bytes
+(epstopdf)             Output file: <emittance_growth_diff_s-eps-converted-to.p
+df>
+(epstopdf)                    date: 2019-06-22 18:39:47
+(epstopdf)                    size: 39907 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_growth_diff_s-ep
+s-converted-to.pdf emittance_growth_diff_s.eps>
+(epstopdf)             \includegraphics on input line 638.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_growth_diff_s-eps-converted-to.pdf, id=115, 379.4175pt x 293.095pt>
+File: emittance_growth_diff_s-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_growth_diff_s-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_growth_diff_s-eps-converted-to.pdf  used on 
+input line 638.
+(pdftex.def)             Requested size: 203.99689pt x 157.58914pt.
+[6 <./plasma_density_profile-eps-converted-to.pdf> <./adiabatic_plasma_density_
+profile-eps-converted-to.pdf> <./scanS-eps-converted-to.pdf> <./emittance_growt
+h_diff_s-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 666--674
+[]\OT1/cmr/m/n/10 Both beams are tri-Gaussian with $\OML/cmm/m/it/10 n[] \OT1/c
+mr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 666--674
+[]\OML/cmm/m/it/10 e[]e[]e[]$\OT1/cmr/m/n/10 . The $\OML/cmm/m/it/10 ^^[[]$ \OT
+1/cmr/m/n/10 is the rms pulse
+ []
+
+
+Overfull \hbox (0.63367pt too wide) detected at line 693
+[]\OML/cmm/m/it/10 ^^L\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 )\OML/
+cmm/m/it/10 ^^L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 ) \OMS/cmsy
+/m/n/10 ^^@ []\OML/cmm/m/it/10 ^^L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr
+/m/n/10 )[] + \OML/cmm/m/it/10 ^^L\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m
+/n/10 )[]\OML/cmm/m/it/10 k[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m/n/10
+ )[] = 1 \OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z\OT1/cmr/m/n/10
+ ) = \OMS/cmsy/m/n/10 ^^@[]\OML/cmm/m/it/10 ^^L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 z\OT1/cmr/m/n/10 )
+ []
+
+Package epstopdf Info: Source file: <beta_different_cases.eps>
+(epstopdf)                    date: 2019-06-20 16:58:43
+(epstopdf)                    size: 426344 bytes
+(epstopdf)             Output file: <beta_different_cases-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2019-06-21 12:48:29
+(epstopdf)                    size: 84594 bytes
+(epstopdf)             Command: <repstopdf --outfile=beta_different_cases-eps-c
+onverted-to.pdf beta_different_cases.eps>
+(epstopdf)             \includegraphics on input line 703.
+Package epstopdf Info: Output file is already uptodate.
+<beta_different_cases-eps-converted-to.pdf, id=192, 530.98375pt x 408.52625pt>
+File: beta_different_cases-eps-converted-to.pdf Graphic file (type pdf)
+<use beta_different_cases-eps-converted-to.pdf>
+Package pdftex.def Info: beta_different_cases-eps-converted-to.pdf  used on inp
+ut line 703.
+(pdftex.def)             Requested size: 203.99689pt x 156.94958pt.
+[7 <./beta_different_cases-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <emittance_growth_diff_s_1.eps>
+(epstopdf)                    date: 2019-06-18 17:11:16
+(epstopdf)                    size: 179987 bytes
+(epstopdf)             Output file: <emittance_growth_diff_s_1-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2019-06-18 17:12:09
+(epstopdf)                    size: 9560 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_growth_diff_s_1-
+eps-converted-to.pdf emittance_growth_diff_s_1.eps>
+(epstopdf)             \includegraphics on input line 736.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_growth_diff_s_1-eps-converted-to.pdf, id=217, 519.9425pt x 408.52625
+pt>
+File: emittance_growth_diff_s_1-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_growth_diff_s_1-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_growth_diff_s_1-eps-converted-to.pdf  used o
+n input line 736.
+(pdftex.def)             Requested size: 203.99689pt x 160.27834pt.
+Package epstopdf Info: Source file: <emittance_growth_diff_s_2.eps>
+(epstopdf)                    date: 2019-06-18 17:11:17
+(epstopdf)                    size: 262606 bytes
+(epstopdf)             Output file: <emittance_growth_diff_s_2-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2019-06-18 17:12:09
+(epstopdf)                    size: 17520 bytes
+(epstopdf)             Command: <repstopdf --outfile=emittance_growth_diff_s_2-
+eps-converted-to.pdf emittance_growth_diff_s_2.eps>
+(epstopdf)             \includegraphics on input line 740.
+Package epstopdf Info: Output file is already uptodate.
+<emittance_growth_diff_s_2-eps-converted-to.pdf, id=218, 519.9425pt x 408.52625
+pt>
+File: emittance_growth_diff_s_2-eps-converted-to.pdf Graphic file (type pdf)
+<use emittance_growth_diff_s_2-eps-converted-to.pdf>
+Package pdftex.def Info: emittance_growth_diff_s_2-eps-converted-to.pdf  used o
+n input line 740.
+(pdftex.def)             Requested size: 203.99689pt x 160.27834pt.
+Package epstopdf Info: Source file: <Helium_buffer_profile.eps>
+(epstopdf)                    date: 2019-07-15 22:46:41
+(epstopdf)                    size: 249867 bytes
+(epstopdf)             Output file: <Helium_buffer_profile-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2019-07-15 22:48:49
+(epstopdf)                    size: 12695 bytes
+(epstopdf)             Command: <repstopdf --outfile=Helium_buffer_profile-eps-
+converted-to.pdf Helium_buffer_profile.eps>
+(epstopdf)             \includegraphics on input line 790.
+Package epstopdf Info: Output file is already uptodate.
+<Helium_buffer_profile-eps-converted-to.pdf, id=219, 539.01375pt x 430.60875pt>
+
+File: Helium_buffer_profile-eps-converted-to.pdf Graphic file (type pdf)
+<use Helium_buffer_profile-eps-converted-to.pdf>
+Package pdftex.def Info: Helium_buffer_profile-eps-converted-to.pdf  used on in
+put line 790.
+(pdftex.def)             Requested size: 203.99689pt x 162.96939pt.
+Package epstopdf Info: Source file: <he_buffer_emit_315um.eps>
+(epstopdf)                    date: 2019-07-15 18:37:38
+(epstopdf)                    size: 180111 bytes
+(epstopdf)             Output file: <he_buffer_emit_315um-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2019-07-15 19:16:10
+(epstopdf)                    size: 10391 bytes
+(epstopdf)             Command: <repstopdf --outfile=he_buffer_emit_315um-eps-c
+onverted-to.pdf he_buffer_emit_315um.eps>
+(epstopdf)             \includegraphics on input line 808.
+Package epstopdf Info: Output file is already uptodate.
+<he_buffer_emit_315um-eps-converted-to.pdf, id=220, 531.9875pt x 410.53375pt>
+File: he_buffer_emit_315um-eps-converted-to.pdf Graphic file (type pdf)
+<use he_buffer_emit_315um-eps-converted-to.pdf>
+Package pdftex.def Info: he_buffer_emit_315um-eps-converted-to.pdf  used on inp
+ut line 808.
+(pdftex.def)             Requested size: 122.4028pt x 94.45209pt.
+Package epstopdf Info: Source file: <he_buffer_emit_20um.eps>
+(epstopdf)                    date: 2019-07-15 19:13:42
+(epstopdf)                    size: 180132 bytes
+(epstopdf)             Output file: <he_buffer_emit_20um-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-07-15 19:16:11
+(epstopdf)                    size: 10256 bytes
+(epstopdf)             Command: <repstopdf --outfile=he_buffer_emit_20um-eps-co
+nverted-to.pdf he_buffer_emit_20um.eps>
+(epstopdf)             \includegraphics on input line 811.
+Package epstopdf Info: Output file is already uptodate.
+<he_buffer_emit_20um-eps-converted-to.pdf, id=221, 531.9875pt x 410.53375pt>
+File: he_buffer_emit_20um-eps-converted-to.pdf Graphic file (type pdf)
+<use he_buffer_emit_20um-eps-converted-to.pdf>
+Package pdftex.def Info: he_buffer_emit_20um-eps-converted-to.pdf  used on inpu
+t line 811.
+(pdftex.def)             Requested size: 122.4028pt x 94.45209pt.
+
+Overfull \hbox (11.13885pt too wide) in paragraph at lines 808--812
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <HICD.eps>
+(epstopdf)                    date: 2019-11-26 07:50:34
+(epstopdf)                    size: 479358 bytes
+(epstopdf)             Output file: <HICD-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-26 07:51:57
+(epstopdf)                    size: 13286 bytes
+(epstopdf)             Command: <repstopdf --outfile=HICD-eps-converted-to.pdf 
+HICD.eps>
+(epstopdf)             \includegraphics on input line 843.
+Package epstopdf Info: Output file is already uptodate.
+<HICD-eps-converted-to.pdf, id=222, 513.92pt x 385.44pt>
+File: HICD-eps-converted-to.pdf Graphic file (type pdf)
+<use HICD-eps-converted-to.pdf>
+Package pdftex.def Info: HICD-eps-converted-to.pdf  used on input line 843.
+(pdftex.def)             Requested size: 255.0pt x 191.24919pt.
+
+Overfull \hbox (15.16663pt too wide) in paragraph at lines 843--844
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <focus_x.eps>
+(epstopdf)                    date: 2019-10-12 12:36:07
+(epstopdf)                    size: 47388 bytes
+(epstopdf)             Output file: <focus_x-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-10-12 12:38:08
+(epstopdf)                    size: 20411 bytes
+(epstopdf)             Command: <repstopdf --outfile=focus_x-eps-converted-to.p
+df focus_x.eps>
+(epstopdf)             \includegraphics on input line 846.
+Package epstopdf Info: Output file is already uptodate.
+<focus_x-eps-converted-to.pdf, id=223, 462.72874pt x 346.29375pt>
+File: focus_x-eps-converted-to.pdf Graphic file (type pdf)
+<use focus_x-eps-converted-to.pdf>
+Package pdftex.def Info: focus_x-eps-converted-to.pdf  used on input line 846.
+(pdftex.def)             Requested size: 229.49844pt x 171.75146pt.
+[8 <./emittance_growth_diff_s_1-eps-converted-to.pdf> <./emittance_growth_diff_
+s_2-eps-converted-to.pdf> <./Helium_buffer_profile-eps-converted-to.pdf> <./he_
+buffer_emit_315um-eps-converted-to.pdf> <./he_buffer_emit_20um-eps-converted-to
+.pdf>] [9 <./HICD-eps-converted-to.pdf> <./focus_x-eps-converted-to.pdf>]
+[10] (./zyjPaper_submitted.bbl [11]
+Underfull \hbox (badness 1789) in paragraph at lines 190--200
+ \OT1/cmr/m/n/9 L. Palumbo, and L. Ser-afini, Laser-driven elec-tron
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 384--390
+ []\OT1/cmr/m/n/9 L. Hilde-brand, W. An, X. Xu, F. Li, Y. Zhao,
+ []
+
+) [12] (./zyjPaper_submitted.aux) ) 
+Here is how much of TeX's memory you used:
+ 6597 strings out of 492649
+ 97019 string characters out of 6129622
+ 305433 words of memory out of 5000000
+ 10343 multiletter control sequences out of 15000+600000
+ 13158 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,11n,49p,1359b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr5.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on zyjPaper_submitted.pdf (12 pages, 861737 bytes).
+PDF statistics:
+ 451 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
